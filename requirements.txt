@@ -1,0 +1,16 @@
+selenium
+pandas
+beautifulsoup4
+webdriver-manager
+opencv-python
+deepface
+tensorflow
+keras
+nump 
+requests 
+tqdm 
+torch 
+torchvision
+tf-keras
+cmake
+dlib
