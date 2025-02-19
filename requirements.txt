@@ -14,3 +14,4 @@ torchvision
 tf-keras
 cmake
 dlib
+python-dotenv
