@@ -9,9 +9,5 @@ keras
 nump 
 requests 
 tqdm 
-torch 
-torchvision
-tf-keras
-cmake
-dlib
 python-dotenv
+tf-keras
