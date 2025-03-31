@@ -1,1 +1,18 @@
+
+
+# Virtual Environment
+venv/
+ENV/
 .env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Data
+data/interim
+
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+
