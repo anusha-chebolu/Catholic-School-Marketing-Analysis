@@ -61,7 +61,7 @@ def detect_and_crop_faces(image, output_folder, base_filename):
 if __name__ == "__main__":
     # Prompt for the school name and build the CSV file path dynamically.
     school_name = input("Enter the school name: ").strip().lower().replace(" ", "")
-    csv_file = f"../data-collection/{school_name}-school-image-urls.csv"
+    csv_file = f"../../data/raw/{school_name}-school-image-urls.csv"
     
     # Load the CSV file containing image URLs.
     try:
@@ -75,7 +75,7 @@ if __name__ == "__main__":
         exit(1)
     
     # Create a single output folder for the school
-    output_folder = f"cropped_faces_{school_name}"
+    output_folder = f"../../data/processed/cropped_faces_{school_name}"
     os.makedirs(output_folder, exist_ok=True)
     
     total_face_count = 0
