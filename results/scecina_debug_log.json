@@ -1,0 +1,1086 @@
+[
+    {
+        "image": "img15_face_27.jpg",
+        "final_race": "ambiguous",
+        "final_gender": "man",
+        "confidence": 0.5134,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img16_face_4.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img14_face_7.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_15.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.6545,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img66_face_1.jpg",
+        "final_race": "asian",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 2,
+            "woman": 1
+        }
+    },
+    {
+        "image": "img57_face_1.jpg",
+        "final_race": "white",
+        "final_gender": "woman",
+        "confidence": 1.0,
+        "gender_votes": {
+            "woman": 3
+        }
+    },
+    {
+        "image": "img15_face_24.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.4355,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_54.jpg",
+        "final_race": "black",
+        "final_gender": "man",
+        "confidence": 0.4199,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img14_face_9.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 2,
+            "woman": 1
+        }
+    },
+    {
+        "image": "img15_face_8.jpg",
+        "final_race": "ambiguous",
+        "final_gender": "man",
+        "confidence": 0.3333,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img70_face_1.jpg",
+        "final_race": "black",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img75_face_2.jpg",
+        "final_race": "black",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img17_face_5.jpg",
+        "final_race": "black",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 2,
+            "woman": 1
+        }
+    },
+    {
+        "image": "img14_face_1.jpg",
+        "final_race": "asian",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_13.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "woman": 1,
+            "man": 2
+        }
+    },
+    {
+        "image": "img15_face_39.jpg",
+        "final_race": "asian",
+        "final_gender": "man",
+        "confidence": 0.6652,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img11_face_2.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_22.jpg",
+        "final_race": "asian",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img59_face_1.jpg",
+        "final_race": "indian",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img13_face_2.jpg",
+        "final_race": "black",
+        "final_gender": "man",
+        "confidence": 0.9853,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img67_face_1.jpg",
+        "final_race": "ambiguous",
+        "final_gender": "man",
+        "confidence": 0.3355,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_28.jpg",
+        "final_race": "asian",
+        "final_gender": "man",
+        "confidence": 0.6666,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img12_face_2.jpg",
+        "final_race": "asian",
+        "final_gender": "man",
+        "confidence": 0.3283,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img61_face_1.jpg",
+        "final_race": "middle eastern",
+        "final_gender": "man",
+        "confidence": 0.6666,
+        "gender_votes": {
+            "woman": 1,
+            "man": 2
+        }
+    },
+    {
+        "image": "img15_face_34.jpg",
+        "final_race": "ambiguous",
+        "final_gender": "man",
+        "confidence": 0.3665,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_29.jpg",
+        "final_race": "black",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_36.jpg",
+        "final_race": "ambiguous",
+        "final_gender": "man",
+        "confidence": 0.3333,
+        "gender_votes": {
+            "man": 2,
+            "woman": 1
+        }
+    },
+    {
+        "image": "img15_face_40.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_18.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img75_face_3.jpg",
+        "final_race": "black",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img14_face_8.jpg",
+        "final_race": "white",
+        "final_gender": "woman",
+        "confidence": 1.0,
+        "gender_votes": {
+            "woman": 2,
+            "man": 1
+        }
+    },
+    {
+        "image": "img67_face_3.jpg",
+        "final_race": "white",
+        "final_gender": "woman",
+        "confidence": 0.6666,
+        "gender_votes": {
+            "woman": 3
+        }
+    },
+    {
+        "image": "img68_face_1.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img16_face_1.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img14_face_4.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_5.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_52.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img13_face_3.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img16_face_6.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.999,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img17_face_4.jpg",
+        "final_race": "middle eastern",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img75_face_1.jpg",
+        "final_race": "latino hispanic",
+        "final_gender": "man",
+        "confidence": 0.6866,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_32.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.6655,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img17_face_2.jpg",
+        "final_race": "black",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_19.jpg",
+        "final_race": "ambiguous",
+        "final_gender": "man",
+        "confidence": 0.3352,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_23.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 2,
+            "woman": 1
+        }
+    },
+    {
+        "image": "img63_face_1.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.6673,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img17_face_1.jpg",
+        "final_race": "black",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_55.jpg",
+        "final_race": "black",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 2,
+            "woman": 1
+        }
+    },
+    {
+        "image": "img10_face_2.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img17_face_6.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_33.jpg",
+        "final_race": "white",
+        "final_gender": "woman",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "woman": 2,
+            "man": 1
+        }
+    },
+    {
+        "image": "img75_face_5.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_4.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 2,
+            "woman": 1
+        }
+    },
+    {
+        "image": "img15_face_37.jpg",
+        "final_race": "ambiguous",
+        "final_gender": "man",
+        "confidence": 0.3733,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img14_face_5.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img55_face_1.jpg",
+        "final_race": "white",
+        "final_gender": "woman",
+        "confidence": 1.0,
+        "gender_votes": {
+            "woman": 3
+        }
+    },
+    {
+        "image": "img15_face_35.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.4826,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img17_face_3.jpg",
+        "final_race": "black",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_1.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 2,
+            "woman": 1
+        }
+    },
+    {
+        "image": "img12_face_1.jpg",
+        "final_race": "latino hispanic",
+        "final_gender": "woman",
+        "confidence": 0.6545,
+        "gender_votes": {
+            "woman": 2,
+            "man": 1
+        }
+    },
+    {
+        "image": "img56_face_1.jpg",
+        "final_race": "white",
+        "final_gender": "woman",
+        "confidence": 1.0,
+        "gender_votes": {
+            "woman": 2,
+            "man": 1
+        }
+    },
+    {
+        "image": "img16_face_3.jpg",
+        "final_race": "middle eastern",
+        "final_gender": "man",
+        "confidence": 0.6005,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img14_face_6.jpg",
+        "final_race": "middle eastern",
+        "final_gender": "woman",
+        "confidence": 0.6787,
+        "gender_votes": {
+            "woman": 3
+        }
+    },
+    {
+        "image": "img75_face_4.jpg",
+        "final_race": "white",
+        "final_gender": "woman",
+        "confidence": 1.0,
+        "gender_votes": {
+            "woman": 3
+        }
+    },
+    {
+        "image": "img15_face_44.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 2,
+            "woman": 1
+        }
+    },
+    {
+        "image": "img15_face_31.jpg",
+        "final_race": "ambiguous",
+        "final_gender": "man",
+        "confidence": 0.3333,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_43.jpg",
+        "final_race": "asian",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_47.jpg",
+        "final_race": "ambiguous",
+        "final_gender": "man",
+        "confidence": 0.3333,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_50.jpg",
+        "final_race": "asian",
+        "final_gender": "man",
+        "confidence": 0.6652,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img73_face_1.jpg",
+        "final_race": "middle eastern",
+        "final_gender": "woman",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "woman": 3
+        }
+    },
+    {
+        "image": "img67_face_5.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.9966,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_10.jpg",
+        "final_race": "black",
+        "final_gender": "man",
+        "confidence": 0.6662,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_49.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img75_face_6.jpg",
+        "final_race": "white",
+        "final_gender": "woman",
+        "confidence": 1.0,
+        "gender_votes": {
+            "woman": 2,
+            "man": 1
+        }
+    },
+    {
+        "image": "img67_face_4.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_20.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "woman": 1,
+            "man": 2
+        }
+    },
+    {
+        "image": "img15_face_17.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.4102,
+        "gender_votes": {
+            "woman": 1,
+            "man": 2
+        }
+    },
+    {
+        "image": "img72_face_1.jpg",
+        "final_race": "black",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_2.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img9_face_1.jpg",
+        "final_race": "white",
+        "final_gender": "woman",
+        "confidence": 1.0,
+        "gender_votes": {
+            "woman": 3
+        }
+    },
+    {
+        "image": "img12_face_3.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.999,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_21.jpg",
+        "final_race": "ambiguous",
+        "final_gender": "man",
+        "confidence": 0.345,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_14.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.6211,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img11_face_4.jpg",
+        "final_race": "asian",
+        "final_gender": "woman",
+        "confidence": 0.6653,
+        "gender_votes": {
+            "woman": 2,
+            "man": 1
+        }
+    },
+    {
+        "image": "img16_face_5.jpg",
+        "final_race": "asian",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_53.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img58_face_1.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_46.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_25.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_3.jpg",
+        "final_race": "asian",
+        "final_gender": "man",
+        "confidence": 0.399,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img62_face_1.jpg",
+        "final_race": "white",
+        "final_gender": "woman",
+        "confidence": 0.6552,
+        "gender_votes": {
+            "woman": 2,
+            "man": 1
+        }
+    },
+    {
+        "image": "img69_face_1.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img76_face_1.jpg",
+        "final_race": "black",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img62_face_2.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.6672,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img11_face_3.jpg",
+        "final_race": "asian",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_11.jpg",
+        "final_race": "white",
+        "final_gender": "woman",
+        "confidence": 0.6666,
+        "gender_votes": {
+            "woman": 2,
+            "man": 1
+        }
+    },
+    {
+        "image": "img15_face_7.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.9962,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_16.jpg",
+        "final_race": "ambiguous",
+        "final_gender": "man",
+        "confidence": 0.3335,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img14_face_3.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img14_face_2.jpg",
+        "final_race": "black",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img13_face_1.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img67_face_2.jpg",
+        "final_race": "white",
+        "final_gender": "woman",
+        "confidence": 1.0,
+        "gender_votes": {
+            "woman": 3
+        }
+    },
+    {
+        "image": "img11_face_1.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.991,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img16_face_2.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_38.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 2,
+            "woman": 1
+        }
+    },
+    {
+        "image": "img10_face_1.jpg",
+        "final_race": "white",
+        "final_gender": "woman",
+        "confidence": 1.0,
+        "gender_votes": {
+            "woman": 3
+        }
+    },
+    {
+        "image": "img15_face_6.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.9974,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_42.jpg",
+        "final_race": "ambiguous",
+        "final_gender": "man",
+        "confidence": 0.3362,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_45.jpg",
+        "final_race": "asian",
+        "final_gender": "man",
+        "confidence": 0.6269,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img65_face_1.jpg",
+        "final_race": "asian",
+        "final_gender": "man",
+        "confidence": 1.0,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_30.jpg",
+        "final_race": "asian",
+        "final_gender": "man",
+        "confidence": 0.6661,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_9.jpg",
+        "final_race": "ambiguous",
+        "final_gender": "man",
+        "confidence": 0.3572,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_48.jpg",
+        "final_race": "asian",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_41.jpg",
+        "final_race": "asian",
+        "final_gender": "man",
+        "confidence": 0.4246,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_26.jpg",
+        "final_race": "black",
+        "final_gender": "man",
+        "confidence": 0.6666,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img71_face_1.jpg",
+        "final_race": "white",
+        "final_gender": "woman",
+        "confidence": 1.0,
+        "gender_votes": {
+            "woman": 3
+        }
+    },
+    {
+        "image": "img15_face_12.jpg",
+        "final_race": "white",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 3
+        }
+    },
+    {
+        "image": "img15_face_51.jpg",
+        "final_race": "black",
+        "final_gender": "man",
+        "confidence": 0.6667,
+        "gender_votes": {
+            "man": 3
+        }
+    }
+]
