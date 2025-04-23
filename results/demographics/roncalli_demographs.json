@@ -1,0 +1,17 @@
+{
+    "white/man": 287,
+    "white/woman": 146,
+    "asian/man": 42,
+    "ambiguous/man": 22,
+    "latino_hispanic/woman": 6,
+    "black/man": 8,
+    "middle_eastern/man": 12,
+    "asian/woman": 14,
+    "middle_eastern/woman": 1,
+    "latino_hispanic/man": 4,
+    "indian/man": 2,
+    "LowQuality": 3,
+    "ambiguous/woman": 1,
+    "indian/woman": 1,
+    "black/woman": 1
+}
