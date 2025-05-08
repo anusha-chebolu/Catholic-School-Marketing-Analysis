@@ -181,7 +181,7 @@ def detect_and_crop_faces(image, output_folder, base_filename):
 if __name__ == "__main__":
     # Prompt for the school name and build the CSV file path dynamically.
     school_name = input("Enter the school name: ").strip().lower().replace(" ", "")
-    csv_file = f"../../data/raw/deduplicate/{school_name}-school-image-urls-unique.csv"
+    csv_file = f"../../data/raw/{school_name}-school-image-urls-unique.csv"
     
     # Load the CSV file containing image URLs.
     try:
@@ -216,3 +216,6 @@ if __name__ == "__main__":
     
     print(f"Total faces cropped: {total_face_count}")
     print(f"All cropped faces are saved in: {output_folder}")
+
+
+
